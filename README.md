@@ -43,6 +43,12 @@ Showcase several typical node combination workflows, focusing on real applicatio
   - Brief process description
   - [Optional: diagram or link]
 
+- **Wan 2.2 ComfyUI Workflow Pack** *(commercial — the repo owner builds and sells this)*
+  - Use case: Ready-to-run Wan 2.2 text-to-video / image-to-video ComfyUI workflows.
+  - Involved nodes: Core ComfyUI video nodes (Load Video / Save Video / Video Frame Extract).
+  - Brief process description: A paid workflow bundle we develop and sell ourselves. Listed here only because the repo owner is the seller — this is not an open-source resource and not a free repackaged example.
+  - Link: https://adel93.itch.io/wan22-comfyui-workflow-pack ($12.00)
+
 ---
 
 > Each section is recommended to only list the most commonly used or representative content. For more details, use "see more" or links to avoid excessive length in the main text.
